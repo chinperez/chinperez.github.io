@@ -1,4 +1,4 @@
-## Welcome
+## Welcome to my Home Page
 
 This is sample number 1.
 
